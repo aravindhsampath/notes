@@ -1,2 +1,2 @@
-# notes
-Notes about random tech stuff
+# Notes
+Notes about random tech stuff.
